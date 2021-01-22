@@ -6,7 +6,6 @@
 
 > (Python, BeautifulSoup, urllib, regex)
 
-*Note: There are a lot of comments in the code file as they are review notes for myself.*
 
 Scraped to Excel:
 
